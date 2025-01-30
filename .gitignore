@@ -1,0 +1,25 @@
+# Node dependencies
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+
+# Vite build output
+dist/
+.vite/
+.cache/
+
+# Elm build artifacts
+elm-stuff/
+elm-review/elm-stuff/
+
+# Editor/IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# OS-specific files
+.DS_Store
+Thumbs.db
